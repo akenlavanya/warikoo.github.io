@@ -1,0 +1,206 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.navbar{
+    width:1250px;
+	height:75px;
+	margin:2px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+} 
+.img1{
+    width:88px;
+    height:55px;
+    align-content: center;
+    margin-left: 100px;
+}
+ul{
+	float:left;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+ul li{
+	list-style:none;
+	margin-left:62px;
+	margin-top:27px;
+	font-size:20px;
+}
+ul li a{
+	text-decoration:none;
+	color:black;
+	font-family:arial;
+	font-weight:bold;
+	transition:0.4s eas-in-out;
+} 
+.content{
+    padding-left:25px;
+    padding-right:25px;
+    background-color:#2B60DE;
+    height:580px;
+    margin:auto;/*auro*/
+}
+h1{
+    font:48px "Libre Baskervillee";
+    text-align: center;
+    font-size: 60px;
+    color: white;
+}
+h3{
+    font-size: 20px;
+}
+.launch{
+    margin:0px 0px 2.7px;
+    text-align: center;
+}
+.launch1{
+    margin:5px 0px 20px;
+}
+.btn{
+    margin:15px 0px 22.5px;
+    color:#FFFFFF;   
+    width:922px;
+    height:73.72px;
+    position: absolute;
+    top: 28%;
+    left:39.9%; 
+    -ms-transform: translate(-50%,-50%);
+    transform: translateY(-50%,-50%);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+button{
+    border-radius: 10px;
+    width:225px;
+    background: #EBF3FF;
+    height:73.72px;
+    padding: 10px 30px ;
+}
+.navbar2{ 
+    margin-left:120px;
+    padding:10px 20px;
+    height:20px;
+    padding:20px;
+    font:6px "Work Sans";
+    font-size: 20px;
+    display: flex;
+}
+.nav2{
+    margin:0px 0px 27px;
+    padding: 35px 45px;
+    display:flex;
+    align-items: center;
+    justify-content:space-between;
+    color: black;
+}
+.middle-content{
+    font:17px "Work sans";
+    margin-left: 160px;
+}
+.right-div{
+    position: absolute;
+    top:100%;
+    right: 150px;  
+    width: 250px;
+    height: 500px;
+  } 
+.right-img{
+    width: 50px;
+    height:50px;
+    float:left;
+    display:inline;
+}
+.right-content{
+    text-align:center;
+}
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.middle-content1{
+    font:17px "Work sans";
+    margin-left: 180px;
+}
+.from-idea{
+padding: 18px 25px;
+display: inline-block;
+height:150px;
+width:207px;
+justify-content: center;
+text-align: center;
+font-size: 17px;
+background: #EBF3FF;
+color: black;
+
+}
+.should-you{
+    padding: 18px 25px;
+    display: inline-block;
+    height:150px;
+    width:207px;
+    justify-content: center;
+    text-align: center;
+    font-size: 17px;
+    background: #f5f5f5;
+    color: black; 
+    position:relative;
+    top:-19px;
+   
+    }
+.framework{
+    padding: 18px 25px;
+    display: inline-block;
+    height:150px;
+    width:207px;
+    justify-content: center;
+    text-align: center;
+    font-size: 17px;
+    background: #EBF3FF;
+    color: black;
+    position: relative;
+    top:-36px;
+   
+ }
+.btn1{
+    border-radius: 10px;
+    width:225px;
+    height:73.72px;
+    padding: 10px 30px ;
+}
+.btn1{
+    margin:15px 0px 22.5px;
+    color:#FFFFFF;   
+    width:922px;
+    height:73.72px;
+    position: absolute;
+    top: 162%;
+    left:42%; 
+    -ms-transform: translate(-50%,-50%);
+    transform: translateY(-50%,-50%);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.course{
+    font:48px "Libre Baskerville";
+    margin:0px 0px 22.5px;
+}
+.course-content{
+    font:16.2px "Libre Baskerville";
+    color:#262626;
+    font-size: 25px;
+    margin-left: 60px;
+}
+.center{
+    display: block;
+    margin-left: 450px;
+    margin-right: auto;
+    width:50px;
+}
+.container{
+    display: flex;
+    align-items: center;
+}
